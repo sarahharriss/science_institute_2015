@@ -66,17 +66,18 @@ We want to look at genes. Assuming it’s well conserved, with only a few differ
 •	Liquid in post centrifuged tube is called supernatant. 
 •	Solid is called pellet. 
 
-	
+More Notes: 
+PCR stands for Polymerase Chain Reaction. Poly- many mer-thing ase-enzyme chain reaction- exponentially growing. PCR allows us to selectively amplify specific DNA sequences. In order to sequence DNA we need a highly concentrated sample. A gene is a segment of DNA that encodes a protein. There are two types: genes and non-genes. Genes are highly conserved and need to have a specific recipe or they are wrong. Non-genes are not conservative and they dont really matter that much because they dont have an important function. When we are identifying a species, we look at the genes becuase they are conserved. When sequencing DNA we use a PCR Primer which is short pieved dof DNA, you can use it to retrieve information without putting in a little information (like google). We know how our sequence starts and we know how it ends. if you know that you can create your own primers specific for the beginning and ending of nulcleotides. 
 
 ### Good Explanations of PCR
 
 Website:[PCR](http://learn.genetics.utah.edu/content/labs/pcr/)
 Description:This website is an easy way to understand PCR and even has a virtual description of it.
 
-Website:
-Description:
+Website:https:https://www.dnalc.org/resources/animations/cycseq.html
+Description:sequencing animation and explained well
 
-Website:
+Website:https:
 Description:
 
 ### Interesting News Articles
